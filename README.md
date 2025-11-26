@@ -1,16 +1,13 @@
-# React + Vite
+Overview:
+VegOria is a responsive website built with HTML, CSS, and React.js that allows users to browse and shop fresh produce, dairy, eggs, meat, and seafood. Key features include:
+Browse products by category (Fruits, Vegetables, Dairy, Seafood)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+View product details and prices
 
-Currently, two official plugins are available:
+1. Highlighted values like trust, freshness, food safety, and organic quality
+2. First-order discount promotion
+3. Step-by-step process overview (Sourcing, Manufacturing, Quality Control, Logistics)
+4. Customer reviews/testimonials
+5. Perfect for showcasing a modern, clean online grocery shopping interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image alt](https://github.com/rejowan715/Vegoria_Website/blob/a7aba3be800b41aeb9b0e6be1bf2252c7b7f81d3/screencapture.png)
